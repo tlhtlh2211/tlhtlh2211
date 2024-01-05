@@ -23,14 +23,15 @@ Here are some ideas to get you started:
 ## 👨‍💻 Tech
 Here are a few technologies I've been working with recently:
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haiiiiii&show_icons=true)
 
 ## 🤝 Connect with Me
-- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/tranlehai03/))
-- Email: [Email](mailto:haitranle.contact@gmail.com)
-- Email: [Email](mailto:21hai.tl@vinuni.edu.vn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tranlehai03/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haitranle.contact@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:21hai.tl@vinuni.edu.vn)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hai.trann.3114)
