@@ -31,6 +31,6 @@ Here are a few technologies I've been working with recently:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true)
 
 ## 🤝 Connect with Me
-- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/tranlehai03/))
-- Email: [Your Email](mailto:haitranle.contact@gmail.com)
-- Email: [Your Email](mailto:21hai.tl@vinuni.edu.vn)
+- LinkedIn: [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/tranlehai03/))
+- Email: [Email](mailto:haitranle.contact@gmail.com)
+- Email: [Email](mailto:21hai.tl@vinuni.edu.vn)
