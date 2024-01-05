@@ -28,7 +28,7 @@ Here are a few technologies I've been working with recently:
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Haiiiiii&show_icons=true)
 
 ## 🤝 Connect with Me
 - LinkedIn: [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/tranlehai03/))
