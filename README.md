@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - I'm a Sophomore Computer Science student at VinUni, where I'm deeply immersed in the fascinating field of Bioinformatics and Machine Learning.
   
-- I am actively seeking internship opportunities to apply my knowledge in real-world scenarios
+- I am actively seeking internship opportunities to apply my knowledge in real-world scenarios.
 
 ## 👨‍💻 Tech
 Here are a few technologies I've been working with recently:
@@ -33,5 +33,4 @@ Here are a few technologies I've been working with recently:
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tranlehai03/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haitranle.contact@gmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:21hai.tl@vinuni.edu.vn)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hai.trann.3114)
