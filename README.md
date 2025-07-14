@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 🌱 About Me
 
-- I'm a Sophomore Computer Science student at VinUni, where I'm deeply immersed in the fascinating field of Bioinformatics and Machine Learning.
+- I'm a Junior Computer Science student at VinUni, where I'm deeply immersed in the fascinating field AI & Machine Learning.
   
 - I am actively seeking internship opportunities to apply my knowledge in real-world scenarios.
 
